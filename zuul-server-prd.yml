@@ -8,6 +8,6 @@ zuul:
     api-b:
       path: /api-order/**
       serviceId: app-xrz-order
-    api-b:
+    api-c:
       path: /api-new/**
       serviceId: app-xrz-order
